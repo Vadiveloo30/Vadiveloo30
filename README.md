@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vadiveloo30
+- 👀 I’m interested in data science projects mainly on data manipulation and creating data pipeline.
+- 🌱 I’m currently learning on Python, SQL, Power Bi and Tableau
+- 💞️ I’m looking to collaborate on data science projects as a freelancer.
+- 📫 I could reached via email(vadiveloo30@gmail.com)
